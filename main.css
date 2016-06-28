@@ -1,0 +1,34 @@
+.cars{
+	float: left;
+	font-size: 78px;
+}
+*{
+	padding: 0px;
+	margin: 0px;
+}
+li{
+	float: right;
+	padding: 20PX;
+	margin: 20PX;
+}
+ul{
+	padding: 0px;
+	margin: 0px;
+}
+p{
+	display:block;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	padding-right: 50px;
+}
+
+.no1{
+	background-image: url(2.jpg);
+	height: auto;
+	width: 100%;
+}
+.src1{
+	padding: 90px;
+
+}
